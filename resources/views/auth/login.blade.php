@@ -28,7 +28,7 @@
                     meningkatkan keterampilan Anda di era digitalisasi ini <br> akan sangat membantu dalam berbagai hal.
                 </p>
 
-                <img src="{{ asset('frontend/images/register-image.svg') }}" alt="" width="800">
+                <img src="{{ asset('frontend/images/register-image.svg') }}" alt="" width="500">
             </div>
             <div class="col-7 py-5 px-5">
                 <div class="text-center">

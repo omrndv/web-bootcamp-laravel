@@ -22,13 +22,15 @@
 <body>
     <section style="overflow-x: hidden;">
         <div class="row vh-100">
-            <div class="col-5 bg-green py-5 px-5 text-center">
+            <div class="col-5 bg-green py-5 px-5
+            
+             text-center">
                 <h1 class="header-login">Daftar disini dan jadilah <br> bagian dari kami</h1>
                 <p class="caption-login">
                     meningkatkan keterampilan Anda di era digitalisasi ini <br> akan sangat membantu dalam berbagai hal.
                 </p>
 
-                <img src="{{ asset('frontend/images/register-image.svg') }}" alt="" width="800">
+                <img src="{{ asset('frontend/images/register-image.svg') }}" alt="" width="500">
             </div>
             <div class="col-7 py-5 px-5">
                 <div class="text-center">
